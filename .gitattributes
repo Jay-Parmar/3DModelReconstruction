@@ -1,0 +1,5 @@
+Imgs/PLYs/stereo.ply filter=lfs diff=lfs merge=lfs -text
+stereochess.ply filter=lfs diff=lfs merge=lfs -text
+stereoobj.obj filter=lfs diff=lfs merge=lfs -text
+Imgs/PLYs/Buggy.ply filter=lfs diff=lfs merge=lfs -text
+Imgs/output_mesh.ply filter=lfs diff=lfs merge=lfs -text
