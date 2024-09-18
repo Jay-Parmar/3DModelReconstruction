@@ -1,6 +1,6 @@
 essi-uvss/
 essi-venv/
-
+.venv/
 
 *.ply
 *.jpg
